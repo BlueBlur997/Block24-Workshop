@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.App {
+  font-style: italic;
+  border: 2px solid rgb(240, 18, 18);
+  padding: 20%;
+  display: grid;
+  grid-template-columns: auto;
+}
